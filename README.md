@@ -1,3 +1,3 @@
 # Jawaban Uts
-nama: Ricky Salim
-nim: 20210801300
+-nama: Ricky Salim
+-nim: 20210801300
